@@ -1,0 +1,22 @@
+.logotipo{
+    width: 150px;
+}
+header{
+    background-color: black;
+    height: 150px;
+}
+main{
+    height: 1000px;
+    background-color: beige;
+}
+footer{
+    background-color: black;
+    height: 400px;
+    color: aliceblue;
+}
+.dono{
+    height: 200px;
+}
+.subchefe{
+    height: 200px;
+}
